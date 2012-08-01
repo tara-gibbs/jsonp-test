@@ -1,1 +1,1 @@
-html: "<div>This is the test JSONP file</div>"
+{ "html": "<div>This is the test JSONP file</div>" }
